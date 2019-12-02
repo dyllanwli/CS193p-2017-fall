@@ -1,6 +1,8 @@
-# cs193p-2017-fall
+# CS193p Learning Note
 
-以前也曾經挑戰過這個非常知名的課程, 不過英文太弱, 並且沒有程式基礎所以失敗了, 今年再戰一次, 並且在這邊紀錄此次學習的過程
+## Notes:
+
++ [深入理解 Swift 中的问号感叹号](https://juejin.im/entry/596ef5576fb9a06bbc4b1e23)
 
 ## Lectures And Slides
 
@@ -35,13 +37,6 @@
 | [ Core Data](https://www.youtube.com/watch?v=ssIpdu73p7A&index=10&list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai) |  [slide](./2017_winter/Lecture-10-Slides.pdf)  | __nil__ | Jan 9, 2018 
 | [Core Data Demo](https://www.youtube.com/watch?v=whF63GTaW1w&index=11&list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai) | __nil__ | [demo](./2017_winter/L11_Smashtag) | Jan 9, 2018 
 
-
-## Friday Session
-|  Lectures | Name |
-| :-------: | :---:|
-| [Friday Session1](https://www.youtube.com/watch?v=-UtIg4Lt7T8&index=3&list=PLPA-ayBrweUzGFmkT_W65z64MoGnKRZMq) | Debugging and Xcode Tips and Tricks
-| [Friday Session2](https://www.youtube.com/watch?v=LvhXql24EOs&list=PLPA-ayBrweUzGFmkT_W65z64MoGnKRZMq&index=12) | Github and Source Control Workflow
-| [Friday Session3](https://www.youtube.com/watch?v=s_SOYcYBnGU) | Instruments
 
 ## Reading 
 | Reading                             | Name |
