@@ -3,6 +3,7 @@
 ## Notes:
 
 + [深入理解 Swift 中的问号感叹号](https://juejin.im/entry/596ef5576fb9a06bbc4b1e23)
++ [Swift中一些常见的关键字二(if let，guard let, if case, if case let)](https://www.jianshu.com/p/3a9fbeef56a1?utm_source=oschina-app)
 
 ## Lectures And Slides
 
